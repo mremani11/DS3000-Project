@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "target": "academic_outcome",
+  "n_rows": 4424,
+  "sizes": {
+    "train": 2654,
+    "val": 885,
+    "test": 885
+  }
+}
