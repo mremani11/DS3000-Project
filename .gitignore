@@ -1,0 +1,20 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+scratch_*.ipynb
+
+# Virtual environments and secrets
+.venv/
+venv/
+.env
+
+# Generated objects
+*.pkl
+
+# OS files
+.DS_Store
+
+# Local data caches (data is fetched from OpenML, never committed)
+data/*
+!data/README.md
+scikit_learn_data/
