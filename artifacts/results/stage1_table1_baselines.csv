@@ -1,0 +1,5 @@
+Model and key settings,Features after preprocessing,Learned parameters,Fit time (s),Prediction time (s) [n=885],Val Macro-F1,Val Accuracy,Val Balanced Accuracy,Improvement over dummy (Macro-F1 pts),Test Macro-F1,Test Accuracy,Seed
+"Logistic Regression (L2 penalty, C=1.0, max_iter=2000)",124,375,0.4173,0.0274,0.698,0.784,0.69,0.476,0.709,0.785,42
+"SVM (RBF) (kernel='rbf', C=1.0, gamma='scale')",124,4677,0.7951,0.5168,0.681,0.774,0.673,0.459,0.665,0.763,42
+KNN (k=5 (chosen on val)),124,0,0.1031,0.0502,0.633,0.72,0.627,0.411,0.619,0.702,42
+Dummy (strategy='most_frequent'),124,0,0.1101,0.0316,0.222,0.499,0.333,0.0,0.222,0.499,42

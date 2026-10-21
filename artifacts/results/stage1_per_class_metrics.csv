@@ -1,0 +1,5 @@
+Model and key settings,Dropout Precision,Dropout Recall,Dropout F1,Enrolled Precision,Enrolled Recall,Enrolled F1,Graduate Precision,Graduate Recall,Graduate F1
+"Logistic Regression (L2 penalty, C=1.0, max_iter=2000)",0.791,0.775,0.783,0.579,0.346,0.433,0.818,0.948,0.878
+"SVM (RBF) (kernel='rbf', C=1.0, gamma='scale')",0.805,0.771,0.788,0.571,0.302,0.395,0.79,0.946,0.861
+KNN (k=5 (chosen on val)),0.769,0.715,0.741,0.442,0.289,0.35,0.75,0.878,0.809
+Dummy (strategy='most_frequent'),0.0,0.0,0.0,0.0,0.0,0.0,0.499,1.0,0.666
