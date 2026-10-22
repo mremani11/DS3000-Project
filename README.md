@@ -34,7 +34,7 @@ Split indices are written to `artifacts/splits/` and results to `artifacts/resul
 
 ## Expected runtime
 
-TODO: measure on a full Run All from a restarted kernel.
+About 15 seconds for a full Run All on a laptop, plus the one-time dataset download.
 
 ## Final commit hash
 
