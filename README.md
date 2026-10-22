@@ -38,7 +38,7 @@ About 15 seconds for a full Run All on a laptop, plus the one-time dataset downl
 
 ## Final commit hash
 
-TODO: record the hash of the commit that was submitted.
+Stage 1 demo notebook commit: 538ff738909f5d7770add7d9f1a75315402fab3c
 
 ## Team
 
