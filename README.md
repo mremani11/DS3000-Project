@@ -30,11 +30,11 @@ All executable work lives in one notebook: `DS3000_Project_Group03.ipynb`.
 1. Open `DS3000_Project_Group03.ipynb` (Jupyter or VS Code) with the `.venv` kernel.
 2. Restart the kernel, then **Run All**.
 
-Split indices are written to `artifacts/splits/` and results to `artifacts/results/`. All paths are relative to the repository root.
+Split indices are written to `artifacts/splits/`, result tables to `artifacts/results/`, and the Stage 2 finalist checkpoint (`finalist.joblib`, about 3 MB) and its config to `artifacts/models/`. The checkpoint is committed so the finalist can be reloaded without re-running the search. All paths are relative to the repository root.
 
 ## Expected runtime
 
-About 15 seconds for a full Run All on a laptop, plus the one-time dataset download.
+About 1.5 minutes for a full Run All on a laptop (most of it the 36-trial random forest search in Task S2-3), plus the one-time dataset download.
 
 ## Final commit hash
 
