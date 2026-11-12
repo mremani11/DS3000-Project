@@ -40,6 +40,8 @@ About 1.5 minutes for a full Run All on a laptop (most of it the 36-trial random
 
 Stage 1 demo notebook commit: 538ff738909f5d7770add7d9f1a75315402fab3c
 
+Stage 2 notebook commit: 142b35839bb060b112e49d5f85e60a25ebabf634
+
 ## Team
 
 Group 03
